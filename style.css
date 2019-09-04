@@ -1,0 +1,27 @@
+body {
+    width:100%;
+    margin:0 auto;
+    background:rgb(32, 154, 191);
+}
+
+body{
+    text-align: center;
+}
+
+h1{
+    color:white;
+}
+
+ul {
+    width:60%;
+list-style: none;
+margin:0 auto;
+text-align: center;
+
+    background:white;
+    margin-top:15px;
+}
+
+li {
+    padding:5px;
+}
